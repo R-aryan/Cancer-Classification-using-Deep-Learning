@@ -7,3 +7,5 @@ A basic binary classification model which classifies whether the breast cancer b
 The dataset is a copy of UCI ML Breast Cancer Wisconsin (Diagnostic) datasets. https://goo.gl/U2Uwz2
 
 Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass.  They describe characteristics of the cell nuclei present in the image.
+
+- Reference- https://www.udemy.com/course/complete-tensorflow-2-and-keras-deep-learning-bootcamp/
